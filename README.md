@@ -1,0 +1,2 @@
+# PHP Unexpected Calculation Result due to Loose Typing
+This example demonstrates a common error in PHP related to its loose typing system.  When dealing with numerical operations, ensure all values are of the correct type (integer or float) to avoid unexpected calculation results. The included `bug.php` file showcases the problem, while `bugSolution.php` offers a solution by validating data types before calculations.
